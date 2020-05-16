@@ -8,7 +8,7 @@ from sklearn.metrics import confusion_matrix
 
 # idx = (y_train == d1) | (y_train == d2)
 # my_x_train = x_train[idx]
-# my_y_train = y_train[idx]
+# my_y_train = y_train[idx] 
 
 # idx = (y_test == d1) | (y_test == d2)
 # my_x_test = x_test[idx]
