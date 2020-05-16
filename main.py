@@ -14,6 +14,7 @@ from sklearn.metrics import confusion_matrix
 # my_x_test = x_test[idx]
 # my_y_test = y_test[idx]
 
+# second commit 
 my_x_test = x_test
 my_x_train = x_train
 my_y_train = y_train
